@@ -12,9 +12,6 @@
 *
 ********************************************************************************/
 
-// console.log("Current directory:", __dirname);
-// console.log("File path:", path.join(__dirname, "/public/data/setData.json"));
-
 const legoData = require("./modules/legoSets");
 const path = require("path");
 const express = require('express');
@@ -25,7 +22,6 @@ const HTTP_PORT = process.env.PORT || 8080;
 // Middleware to serve static files
 app.use(express.static(path.join(__dirname, 'public')));
 
-
 // Serve home.html
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, "/views/home.html"));
@@ -35,9 +31,6 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
   res.sendFile(path.join(__dirname, "/views/about.html"));
 });
-
-
-
 
 // Handle requests for Lego sets
 app.get("/lego/sets", async (req, res) => {

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khush\\Downloads\\Updated-A3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\public\\css\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\public\\css\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\public\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\public\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\modules\\legoSets.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\modules\\legoSets.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\themeData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\data\\themeData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\sets.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\data\\sets.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\setData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A3\\A2-template\\data\\setData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\package.json",
+              "RelativeDocumentMoniker": "A3\\A2-template\\package.json",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\package.json",
+              "RelativeToolTip": "A3\\A2-template\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T23:19:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\package-lock.json",
+              "RelativeDocumentMoniker": "A3\\A2-template\\package-lock.json",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\package-lock.json",
+              "RelativeToolTip": "A3\\A2-template\\package-lock.json",
+              "ViewState": "AQIAAEMIAAAAAAAAAAAgwGQIAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T23:19:16.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tailwind.css",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\public\\css\\tailwind.css",
+              "RelativeDocumentMoniker": "A3\\A2-template\\public\\css\\tailwind.css",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\public\\css\\tailwind.css",
+              "RelativeToolTip": "A3\\A2-template\\public\\css\\tailwind.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-22T23:15:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\public\\css\\main.css",
+              "RelativeDocumentMoniker": "A3\\A2-template\\public\\css\\main.css",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\public\\css\\main.css",
+              "RelativeToolTip": "A3\\A2-template\\public\\css\\main.css",
+              "ViewState": "AQIAAMkCAAAAAAAAAAAcwOsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-22T23:15:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\tailwind.config.js",
+              "RelativeDocumentMoniker": "A3\\A2-template\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\tailwind.config.js",
+              "RelativeToolTip": "A3\\A2-template\\tailwind.config.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-22T23:14:31.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\server.js",
+              "RelativeDocumentMoniker": "A3\\A2-template\\server.js",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\server.js",
+              "RelativeToolTip": "A3\\A2-template\\server.js",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-22T23:14:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "legoSets.js",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\modules\\legoSets.js",
+              "RelativeDocumentMoniker": "A3\\A2-template\\modules\\legoSets.js",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\modules\\legoSets.js",
+              "RelativeToolTip": "A3\\A2-template\\modules\\legoSets.js",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-22T23:12:42.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "themeData.json",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\themeData.json",
+              "RelativeDocumentMoniker": "A3\\A2-template\\data\\themeData.json",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\themeData.json",
+              "RelativeToolTip": "A3\\A2-template\\data\\themeData.json",
+              "ViewState": "AQIAACcHAAAAAAAAAAAmwEkHAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T23:12:36.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sets.csv",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\sets.csv",
+              "RelativeDocumentMoniker": "A3\\A2-template\\data\\sets.csv",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\sets.csv",
+              "RelativeToolTip": "A3\\A2-template\\data\\sets.csv",
+              "ViewState": "AQIAAAZVAAAAAAAAAAAkwClVAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-22T23:12:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "setData.json",
+              "DocumentMoniker": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\setData.json",
+              "RelativeDocumentMoniker": "A3\\A2-template\\data\\setData.json",
+              "ToolTip": "C:\\Users\\khush\\Downloads\\Updated-A3\\A3\\A2-template\\data\\setData.json",
+              "RelativeToolTip": "A3\\A2-template\\data\\setData.json",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAmwPEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T23:12:22.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
